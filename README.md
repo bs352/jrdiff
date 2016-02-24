@@ -4,5 +4,7 @@ Pure java based implementation of rdiff algorithm(with modifications) for creati
 *This library is NOT binary compatible with librsync.*
 
 Modifications to original rdiff algorithm:
-1. Use MD5 checksum instead of MD4
-2. Support for files >2GB
+
+Use MD5 checksum instead of MD4
+
+Support for files >2GB
